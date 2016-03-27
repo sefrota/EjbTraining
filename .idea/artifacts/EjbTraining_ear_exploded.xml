@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="EjbTraining:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EjbTraining_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EjbTraining/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
